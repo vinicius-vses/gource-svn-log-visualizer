@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="74992">
+<author>SP070385</author>
+<date>2023-08-15T05:06:26.350140Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Desenvolvimento</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/EntregaFinal</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/EntregaInicial</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/LaTeX</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/Notas</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/POC</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/PropostaInicial</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Desenvolvimento</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Documentos</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Documentos/EntregaFinal</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Documentos/EntregaInicial</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Documentos/LaTeX</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Documentos/Notas</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Documentos/POC</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Documentos/PropostaInicial</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/Grupo1/Videos</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Desenvolvimento</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Documentos</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Documentos/EntregaFinal</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Documentos/EntregaInicial</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Documentos/LaTeX</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Documentos/Notas</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Documentos/POC</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Documentos/PropostaInicial</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/MareaTurbo/Videos</path>
+</paths>
+<msg>criação de pastas</msg>
+</logentry>
+<logentry
+   revision="75029">
+<author>Natalia</author>
+<date>2023-08-22T01:14:37.427562Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/PropostaInicial/Proposta_Inicial_deuQuadra.pdf</path>
+</paths>
+<msg>Proposta_Inicial_deuQuadra.pdf</msg>
+</logentry>
+<logentry
+   revision="75030">
+<author>Natalia</author>
+<date>2023-08-22T01:24:43.847565Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/PropostaInicial/Proposta_Inicial_deuQuadra_slides.pdf</path>
+</paths>
+<msg>Proposta_Inicial_deuQuadra_slides.pdf</msg>
+</logentry>
+<logentry
+   revision="75047">
+<author>Bruno</author>
+<date>2023-08-29T22:47:39.307343Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/TESTE.txt</path>
+</paths>
+<msg>Teste upload</msg>
+</logentry>
+<logentry
+   revision="75048">
+<author>Bruno</author>
+<date>2023-08-29T22:59:18.551060Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/Videos/TESTE.txt</path>
+</paths>
+<msg>Delete Teste</msg>
+</logentry>
+<logentry
+   revision="75113">
+<author>Natalia</author>
+<date>2023-09-19T21:31:04.149368Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/Desenho_da_Aplicação</path>
+</paths>
+<msg>Criação da pasta para adicionar a documentação do desenho da aplicação</msg>
+</logentry>
+<logentry
+   revision="75114">
+<author>Natalia</author>
+<date>2023-09-19T21:32:12.554081Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/Desenho_da_Aplicação/PI1A5_deuQuadra_DesenhoAplicacao.pdf</path>
+</paths>
+<msg>Envio da documentação do Desenho da Aplicação</msg>
+</logentry>
+<logentry
+   revision="75157">
+<author>Vinicius</author>
+<date>2023-10-03T23:18:33.509012Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/Desenho_da_Aplicação/Apresentacao_deuQuadra!_DesenhoAplicacao.pdf</path>
+</paths>
+<msg>Entrega da Apresentação do Desenho da Aplicação. Está apresentação foi exibida em sala no dia 26/09/2023 pela Equipe DeuQuadra!</msg>
+</logentry>
+<logentry
+   revision="75183">
+<author>Vinicius</author>
+<date>2023-10-18T23:27:48.673954Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/POC/Video_da_POC.txt</path>
+</paths>
+<msg>Adicionando o link do vídeo da apresentação da POC no canal oficial do Projeto deuQuadra!</msg>
+</logentry>
+<logentry
+   revision="75184">
+<author>Vinicius</author>
+<date>2023-10-19T19:39:51.184592Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/POC/deuQuadra!_Relatorio_POC.pdf</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/equipe.yalm</path>
+</paths>
+<msg>Adicionando arq equipe.yalm e documentação da POC.</msg>
+</logentry>
+<logentry
+   revision="75196">
+<author>Vinicius</author>
+<date>2023-10-21T22:52:14.575315Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource</path>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/LOGO.png</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/ViniciusSouza.jpg</path>
+</paths>
+<msg>Teste Arquivos relacionados ao Gource</msg>
+</logentry>
+<logentry
+   revision="75197">
+<author>Vinicius</author>
+<date>2023-10-21T23:10:59.073677Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/ViniciusSouza.jpg</path>
+</paths>
+<msg>Ajustes do Teste do Gource... Tentativa de inserir imagem de usuário.</msg>
+</logentry>
+<logentry
+   revision="75198">
+<author>Vinicius</author>
+<date>2023-10-21T23:17:32.522580Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/LOGO.png</path>
+</paths>
+<msg>Excluindo imagem de LOGO</msg>
+</logentry>
+<logentry
+   revision="75199">
+<author>Vinicius</author>
+<date>2023-10-21T23:20:14.434956Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/Estefanie.jpg</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/Vinicius.jpg</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/geraGource.txt</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/projetolog.xml</path>
+</paths>
+<msg>Subindo imagens de alguns dos integrantes.</msg>
+</logentry>
+<logentry
+   revision="75200">
+<author>Vinicius</author>
+<date>2023-10-21T23:58:12.491475Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/geraGource.bat</path>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/Videos/Gource/geraGource.txt</path>
+<path
+   kind="file"
+   action="M">/S202302-PI-NOT/DeuQuadra/Videos/Gource/projetolog.xml</path>
+</paths>
+<msg>Vídeo no Gource implementado.</msg>
+</logentry>
+<logentry
+   revision="75201">
+<author>Vinicius</author>
+<date>2023-10-22T00:07:46.655209Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/Bruno.jpeg</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/Estefanie.jpeg</path>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/Estefanie.jpg</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Videos/Gource/Avatar/Natalia.jpeg</path>
+</paths>
+<msg>Subindo avatares de mais integrantes do equipe.</msg>
+</logentry>
+<logentry
+   revision="75221">
+<author>Vinicius</author>
+<date>2023-10-29T10:43:18.539758Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/StatSVN</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/StatSVN/gera_StatSVN.bat</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/StatSVN/svn.log</path>
+<path
+   kind="file"
+   action="M">/S202302-PI-NOT/DeuQuadra/Videos/Gource/projetolog.xml</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/svn.log</path>
+</paths>
+<msg>Teste para obter métricas do SVN.</msg>
+</logentry>
+<logentry
+   revision="75222">
+<author>Vinicius</author>
+<date>2023-10-29T11:47:06.703853Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/StatSVN/Relatorio_Total</path>
+<path
+   kind="file"
+   action="M">/S202302-PI-NOT/DeuQuadra/StatSVN/gera_StatSVN.bat</path>
+<path
+   kind="file"
+   action="M">/S202302-PI-NOT/DeuQuadra/StatSVN/svn.log</path>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/svn.log</path>
+</paths>
+<msg>Testando possível correção do statsvn</msg>
+</logentry>
+<logentry
+   revision="75223">
+<author>Vinicius</author>
+<date>2023-10-29T12:57:05.572154Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/S202302-PI-NOT/DeuQuadra/StatSVN/Relatorio_Total</path>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/StatSVN/gera_StatSVN.bat</path>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/StatSVN/svn.log</path>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/Videos/Gource/projetolog.xml</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/svn.log</path>
+</paths>
+<msg>Ajustes nos arquivos</msg>
+</logentry>
+<logentry
+   revision="75225">
+<author>Vinicius</author>
+<date>2023-10-29T15:55:36.202448Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/S202302-PI-NOT/DeuQuadra/StatSVN</path>
+<path
+   kind="file"
+   action="D">/S202302-PI-NOT/DeuQuadra/svn.log</path>
+</paths>
+<msg>Arrumando o repositório</msg>
+</logentry>
+<logentry
+   revision="75226">
+<author>Vinicius</author>
+<date>2023-10-29T15:58:56.319365Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/svn.log</path>
+</paths>
+<msg>Adicionando svn.log</msg>
+</logentry>
+<logentry
+   revision="75233">
+<author>Natalia</author>
+<date>2023-10-30T01:53:06.857357Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/MVP</path>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/MVP/PI1A5___deuQuadra_MVP.pdf</path>
+</paths>
+<msg>Entrega da documentação do MVP</msg>
+</logentry>
+<logentry
+   revision="75298">
+<author>Natalia</author>
+<date>2023-11-09T17:29:40.504692Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/MVP/PI1A5_deuQuadra!_MVP_Apresentação.pdf</path>
+</paths>
+<msg>Entrega da apresentação do MVP</msg>
+</logentry>
+<logentry
+   revision="75331">
+<author>Natalia</author>
+<date>2023-11-16T20:09:14.237122Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/Notas/Divisao_Notas_deuQuadra!.pdf</path>
+</paths>
+<msg>Envio das notas definidas por cada membro da equipe</msg>
+</logentry>
+<logentry
+   revision="75353">
+<author>Natalia</author>
+<date>2023-11-21T21:50:37.454335Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/EntregaFinal/PI1A5___deuQuadra__Entrega_Final.pdf</path>
+</paths>
+<msg>Entrega final da materia de PI1A5</msg>
+</logentry>
+<logentry
+   revision="75357">
+<author>Natalia</author>
+<date>2023-11-21T22:19:29.667493Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/LaTeX/Entrega_Final</path>
+</paths>
+<msg>Criação da pasta para armazenar os arquivos do LaTeX da Entrega Final de PI1A5
+</msg>
+</logentry>
+<logentry
+   revision="75358">
+<author>Natalia</author>
+<date>2023-11-21T22:33:48.513192Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/S202302-PI-NOT/DeuQuadra/Documentos/LaTeX/Entrega_Final</path>
+</paths>
+<msg>Erro ao tentar adicionar arquivos LaTeX, precisei excluir a pasta</msg>
+</logentry>
+<logentry
+   revision="75390">
+<author>Vinicius</author>
+<date>2024-02-25T22:20:30.182821Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/S202302-PI-NOT/DeuQuadra/Videos/Gource/geraGource.bat</path>
+</paths>
+<msg>Adicionando novo integrante do Projeto.</msg>
+</logentry>
+<logentry
+   revision="75391">
+<author>Vinicius</author>
+<date>2024-02-25T22:29:33.195891Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/S202302-PI-NOT/DeuQuadra/equipe.yalm</path>
+</paths>
+<msg>Modificação do endereço dos repositórios.</msg>
+</logentry>
+<logentry
+   revision="75397">
+<author>Natalia</author>
+<date>2024-03-02T18:02:37.697372Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/Planejamento_das_Sprints_PI2A6</path>
+</paths>
+<msg>Criação pasta Planejamento_das_Sprints_PI2A6</msg>
+</logentry>
+<logentry
+   revision="75398">
+<author>Natalia</author>
+<date>2024-03-02T18:03:55.821564Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/S202302-PI-NOT/DeuQuadra/Documentos/Planejamento_das_Sprints_PI2A6/PI2A6___deuQuadra_Planejamento_Sprints.pdf</path>
+</paths>
+<msg>Entrega PI2A6___deuQuadra_Planejamento_Sprints.pdf</msg>
+</logentry>
+<logentry
+   revision="75404">
+<author>Vinicius</author>
+<date>2024-03-07T19:52:54.920704Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/S202302-PI-NOT/DeuQuadra/Documentos/PI2A6_deuQuadra_Correções_Feitas_Nas_Férias</path>
+<path
+   action="A"
+   kind="file">/S202302-PI-NOT/DeuQuadra/Documentos/PI2A6_deuQuadra_Correções_Feitas_Nas_Férias/PI2A6___deuQuadra_Correções.pdf</path>
+<path
+   action="A"
+   kind="file">/S202302-PI-NOT/DeuQuadra/Videos/Gource/projetolog.xml</path>
+<path
+   action="A"
+   kind="file">/S202302-PI-NOT/DeuQuadra/projetolog.xml</path>
+</paths>
+<msg>Adicionando a versão do documento corrigido durante as férias.</msg>
+</logentry>
+<logentry
+   revision="75405">
+<author>Vinicius</author>
+<date>2024-03-07T20:07:51.898010Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/S202302-PI-NOT/DeuQuadra/Documentos/PI2A6_deuQuadra!_Apresentação_Prof_Diferente</path>
+<path
+   action="A"
+   kind="file">/S202302-PI-NOT/DeuQuadra/Documentos/PI2A6_deuQuadra!_Apresentação_Prof_Diferente/PI2A6_deuQuadra!_Apresentação_Prof_Diferente.pdf</path>
+</paths>
+<msg>Subindo a apresentação para o professor novo da disciplina.</msg>
+</logentry>
+<logentry
+   revision="75508">
+<author>Natalia</author>
+<date>2024-05-16T18:40:46.497374Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/S202302-PI-NOT/DeuQuadra/Documentos/EntregaFinal/PI2A6___deuQuadra_Entrega_Final.pdf</path>
+</paths>
+<msg>Entrega Final PI2A6</msg>
+</logentry>
+</log>
